@@ -111,4 +111,26 @@ lsa - მარშუტიზატორები აგზავნიან 
 
 დაწერეთ ყველა ქვექსელის მასკა, ქსელის მისამართი, ქსელის პირველი მისამართი და ქსელის ბროუდქასთ მისამართი. 
 
+Subnet Mask: 255.255.255.224 (ეს ნიშნავს /27)
+Network address: 196.168.1.0/27
+First address: 196.168.1.1
+Broadcast address: 196.168.1.31
 
+--18
+Subnet Mask: 255.255.255.224 (ეს ნიშნავს /27)
+Network address: 196.168.1.32/27
+First address: 196.168.1.33
+Broadcast address: 196.168.1.63
+
+--7
+Subnet Mask: 255.255.255.248 (ეს ნიშნავს /29)
+Network address: 196.168.1.64/29
+First address: 196.168.1.65
+Broadcast address: 196.168.1.71
+
+
+--3
+Subnet Mask: 255.255.255.252 (ეს ნიშნავს /30)
+Network address: 196.168.1.72/30
+First address: 196.168.1.73
+Broadcast address: 196.168.1.75
